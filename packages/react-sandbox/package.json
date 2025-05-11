@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@charcoal-ui/foundation": "^4.0.0-rc.2",
-    "@charcoal-ui/react": "^4.0.0-rc.2",
+    "@charcoal-ui/react": "^1.0.0",
     "@charcoal-ui/styled": "^4.0.0-rc.2",
     "@charcoal-ui/theme": "^4.0.0-rc.2",
     "@charcoal-ui/utils": "^4.0.0-rc.2",
