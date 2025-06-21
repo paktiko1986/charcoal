@@ -38,8 +38,8 @@
     "vitest": "^2.0.2"
   },
   "dependencies": {
-    "@charcoal-ui/foundation": "^4.0.0-rc.2",
-    "@charcoal-ui/theme": "^4.0.0-rc.2",
+    "@charcoal-ui/foundation": "^1.0.0",
+    "@charcoal-ui/theme": "^1.0.0",
     "@charcoal-ui/utils": "^4.0.0-rc.2",
     "warning": "^4.0.3"
   },
